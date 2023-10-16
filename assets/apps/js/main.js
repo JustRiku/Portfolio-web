@@ -121,7 +121,11 @@ let sections = document.querySelectorAll(".section");
 
 let observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
-        entry.target.classList.toggle("show", entry.isIntersecting)
+        if(window.innerWidth <= 768){
+            return false
+        }else{
+            entry.target.classList.toggle("show", entry.isIntersecting)
+        }
     })
 }, {
     threshold: .5
