@@ -29,10 +29,10 @@ Swtich.addEventListener('click', () => {
     };
     let theme;
     if(document.body.classList.contains("dark")){
-        console.log("Dark theme");
+        // console.log("Dark theme");
         theme = "dark";
     }else{
-        console.log("Bright theme");
+        // console.log("Bright theme");
         theme = "bright";
     }
     
@@ -41,7 +41,7 @@ Swtich.addEventListener('click', () => {
 });
 
 let getTheme = JSON.parse(localStorage.getItem("pageTheme"));
-console.log(getTheme);
+// console.log(getTheme);
 
 if(getTheme === "bright"){
     document.body.classList.remove('dark');
@@ -91,9 +91,9 @@ function scrollActive(){
 
 window.addEventListener('scroll', scrollActive);
 
-window.addEventListener('scroll', ()=>{
-    console.log(scrollY);
-})
+// window.addEventListener('scroll', ()=>{
+//     console.log(scrollY);
+// })
 // HIDE OR SHOW HEADER ON SCROLL
 
 // let lastScrollTop = 0;
@@ -187,7 +187,7 @@ let hamburger = document.querySelector(".hamburger");
 let navMenu = document.querySelector(".nav-menu");
 
 hamburger.addEventListener('click', () =>{
-    console.log(window.innerWidth);
+    // console.log(window.innerWidth);
     hamburger.classList.toggle("on")
     navMenu.classList.toggle("on");
 })

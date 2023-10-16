@@ -29,10 +29,10 @@ Swtich.addEventListener('click', () => {
     };
     let theme;
     if(document.body.classList.contains("dark")){
-        console.log("Dark theme");
+        // console.log("Dark theme");
         theme = "dark";
     }else{
-        console.log("Bright theme");
+        // console.log("Bright theme");
         theme = "bright";
     }
     
@@ -41,7 +41,7 @@ Swtich.addEventListener('click', () => {
 });
 
 let getTheme = JSON.parse(localStorage.getItem("pageTheme"));
-console.log(getTheme);
+// console.log(getTheme);
 
 if(getTheme === "bright"){
     document.body.classList.remove('dark');
@@ -69,12 +69,12 @@ fetch('assets/apps/json/data.json')
 .then(res => res.json())
 .then(data =>{
     let workDynamic = data[Number(param)];
-    console.log(workDynamic);
+    // console.log(workDynamic);
     dynamic.innerHTML= `
           <h1 class="work-title">${workDynamic.category}</h1>
           <div class="work-grid"></div>`;
     let grid = document.querySelector(".work-grid");
-    console.log(workDynamic.proyects);
+    // console.log(workDynamic.proyects);
     let i = 0;
     do{
         let push = `<div class="proyect" id="${workDynamic.proyects[i].number}">

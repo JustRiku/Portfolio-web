@@ -30,10 +30,10 @@ Swtich.forEach(Element => {
         };
         let theme;
         if(document.body.classList.contains("dark")){
-            console.log("Dark theme");
+            // console.log("Dark theme");
             theme = "dark";
         }else{
-            console.log("Bright theme");
+            // console.log("Bright theme");
             theme = "bright";
         }
         
@@ -46,7 +46,7 @@ Swtich.forEach(Element => {
 
 
 let getTheme = JSON.parse(localStorage.getItem("pageTheme"));
-console.log(getTheme);
+// console.log(getTheme);
 
 let switch1 = document.querySelector("#switch");
 let switch2 = document.querySelector('#switch2');
@@ -73,7 +73,7 @@ fetch('assets/apps/json/proyects.json')
 .then(res => res.json())
 .then(data =>{
     let proyectDynamic = data[Number(param)];
-    console.log(proyectDynamic);
+    // console.log(proyectDynamic);
     proyectsFlex.innerHTML= `
             <div class="flex-name">
                 <div>
