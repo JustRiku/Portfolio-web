@@ -57,7 +57,7 @@ let obtainParam = (url) => {
     return urlParam;
 };
 let openProyect = (e) => {
-    window.open(`../proyect.html?id=${e.currentTarget.id}`, '_self');
+    window.open(`proyect.html?id=${e.currentTarget.id}`, '_self');
 
 };
 
