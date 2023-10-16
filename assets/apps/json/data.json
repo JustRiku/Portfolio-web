@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1",
+        "category": "Motion Graphics",
+        "proyects": [
+            {
+                "number": "0",
+                "name": "cuad.",
+                "img": "assets/img/categories/motion/cuad/1.png"
+            },
+            {
+                "number": "1",
+                "name": "daywalker",
+                "img": "assets/img/categories/motion/daywalker/1.png"
+            },
+            {
+                "number": "2",
+                "name": "caught",
+                "img": "assets/img/categories/motion/caught/1.png"
+            },
+            {
+                "number": "3",
+                "name": "drum go drum",
+                "img": "assets/img/categories/motion/kda/1.png"
+            }
+        ] 
+    },
+    {
+        "id": "2",
+        "category": "Web design",
+        "proyects": [
+            {
+                "number": "4",
+                "name": "geometrik",
+                "img": "assets/img/categories/web/geometrik/2.png"
+            },
+            {
+                "number": "5",
+                "name": "pokedex",
+                "img": "assets/img/categories/web/pokedex/1.png"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "category": "Branding",
+        "proyects": [
+            {
+                "number": "6",
+                "name": "apex",
+                "img": "assets/img/categories/brand/apex/01.png"
+            },
+            {
+                "number": "7",
+                "name": "dieteticamente",
+                "img": "assets/img/categories/brand/diet/8.png"
+            },
+            {
+                "number": "8",
+                "name": "Haircafe",
+                "img": "assets/img/categories/brand/HC/10.png"
+            },
+            {
+                "number": "9",
+                "name": "Space Animals",
+                "img": "assets/img/categories/brand/SA/2.jpg"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "category": "Editorial Design",
+        "proyects": [
+            {
+                "number": "10",
+                "name": "Pensamiento Lateral",
+                "img": "assets/img/categories/edit/PL/1.png"
+            },
+            {
+                "number": "11",
+                "name": "TypeNotes",
+                "img": "assets/img/categories/edit/TN/1.png"
+            },
+            {
+                "number": "12",
+                "name": "Tipos de Videojuegos",
+                "img": "assets/img/categories/edit/Video/1.png"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "category": "Illustration",
+        "proyects": [
+            {
+                "name": "G4U",
+                "img": "assets/img/categories/illus/good-for-u2.png"
+            },
+            {
+                "name": "Lei",
+                "img": "assets/img/categories/illus/Lei-2.png"
+            },
+            {
+                "name": "Molly",
+                "img": "assets/img/categories/illus/Practicando.jpg"
+            },
+            {
+                "name": "Viku",
+                "img": "assets/img/categories/illus/Viku.png"
+            },
+            {
+                "name": "Yuki",
+                "img": "assets/img/categories/illus/Yuki2.png"
+            }
+        ]
+
+    },
+    {
+        "id": "6",
+        "category": "Animation",
+        "proyects": [
+            {
+                "number": "13",
+                "name": "anglais",
+                "img": "assets/img/categories/anim/anglais/5.png"
+            },
+            {
+                "number": "14",
+                "name": "feelings",
+                "img": "assets/img/categories/anim/feelings/feelings.png"
+            }
+        ]
+    }
+]

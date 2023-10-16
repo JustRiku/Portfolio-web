@@ -1,0 +1,611 @@
+[
+    {
+       "id": "0",
+       "name": "cuad.",
+       "category": "<a href=\"work.html?id=0\">Motion Graphics</a>",
+       "resume": "Animación con música experimental",
+       "video": "assets/video/cu4d-after.mp4",
+       "images": [
+        {
+            "img": "assets/img/categories/motion/cuad/1.png"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/2.png"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/3.jpg"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/4.jpg"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/5.jpg"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/6.png"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/7.png"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/8.png"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/9.png"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/10.jpg"
+        },
+        {
+            "img": "assets/img/categories/motion/cuad/11.png"
+        }
+       ],
+       "text": "Mi idea era jugar con formas geométricas, en especial con el cuadrado, que es el principal protagonista del proyecto y lo acompañan líneas y puntos que son los elementos básicos de las formas geométricas y de la geometría en general.<br><br>También pretendía usar el menor número de elementos diferentes posibles para simplificar y no acabar saturando en exceso la composición. Por esta razón, decidí usar dos colores principalmente, el blanco y el negro. Elegí estos colores porque, aparte de ser unos de mis favoritos, son colores muy elegantes y que contrastan perfectamente entre sí, no destaca uno más que el otro en igualdad de condiciones, son perfectos para iluminar y oscurecer.<br><br>Por último, mi idea era probar con la llamada “música experimental”, un tipo de música en la que priman los sonidos extravagantes, simulados por ordenador, sin letra aparente. Una especie de mezcla de sonidos artificiales o modificados. Este tipo de música trata de generar estímulos, y su objetivo generalmente es desafiar las nociones preestablecidas de la música.<br><br>Ya tenía desde un principio claro la idea de usar música experimental, sin embargo, no tenía ninguna canción. Por suerten, no tarde demasiado en encontrar una playlist llena de distintos tipos de melodías y mezclas de sonidos.<br><br>De la lista al final seleccioné: KRNE - Dollar Sines, porque era la que más se acercaba a la que buscaba e, incluso, la propia canción me daba pistas sobre sus posibilidades. Es como que me resultaba muy sencillo imaginar qué hacer con los diversos sonidos y variaciones. Me sentí como un niño en una tienda de caramelos. Esto también era peligroso porque al igual era abarcar demasiado y chocaba un poco con mi idea inicial de mantenerlo todo simple. Sin embargo, traté de llegar a un resultado intermedio que, si bien no es lo más simple del mundo, tampoco es todo lo exagerado que podría haber llegado a ser."
+    },
+    {
+       "id": "1",
+       "name": "daywalker",
+       "category": "<a href=\"work.html?id=0\">Motion Graphics</a>",
+       "resume": "Tipografía cinética para video musical",
+       "video": "assets/video/daywalker1.mp4",
+       "images": [
+        {
+            "img": "assets/img/categories/motion/daywalker/1.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/2.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/3.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/4.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/5.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/6.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/7.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/8.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/9.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/10.png"
+        },
+        {
+            "img": "assets/img/categories/motion/daywalker/11.jpg"
+        }
+       ],
+       "text": "Empleo gifs e imágenes para intensificar ciertos momentos o darles una sensación nueva. Por ejemplo, los gifs del principio con dibujos de gente enmascarada dan una sensación “turbia” acorde con el sonido. La elección de gente enmascarada tampoco es aleatoria, en esta canción, uno de los intérpretes es CORPSE, que es un cantante conocido por su voz extremadamente grave, por no compartir su cara en público y por identificarse con una máscara característica.<br><br>En este video jugué sobretodo con la mezcla de tipografías y los movimientos de texto y cámara. Le aplique un efecto a toda la composición que generaba un desplazamiento constante que le aportaba un aspecto más de “comic” o animación (lo llaman también efecto gelatina).<br><br> También añadí una capa de “polvo” generado con ruido para que se moviera de forma aleatoria.<br><br>Por último, empleé un plug-in para añadir una estética VHS, ya que los efectos predeterminados de after effects no me terminaban de convencer."
+    },
+    {
+       "id": "2",
+       "name": "Caught in the Fire - Bazzi",
+       "category": "<a href=\"work.html?id=0\">Motion Graphics</a>",
+       "resume": "Tipografía cinética para video musical",
+       "video": "assets/video/caught.mp4",
+       "images": [
+        {
+            "img": "assets/img/categories/motion/caught/1.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/2.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/3.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/4.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/5.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/6.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/7.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/8.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/9.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/10.png"
+        },
+        {
+            "img": "assets/img/categories/motion/caught/11.png"
+        }
+       ],
+       "text": "Empecé presentándome con un alfa y una capa de humo. Generé un espectro de audio al que le apliqué un degradado de 4 colores y una variación de tono para que fuera cambiando con el tiempo. Al mismo tiempo fui intensificando la altura máxima para generar un aumento de intensidad progresivo. Apliqué un efecto de fuego generado totalmente en after effects mediante máscaras, ruido, resplandor y corrección de color entre otros, así como expresiones en estos efectos para crear un movimiento de fuego realista. En este video sustituí palabras por su referente gráfico buscando aportar un tono más cómico al video. Las palabras en este video son sustituidas por completo en algunas ocasiones. También jugué con los colores de algunas palabras y con su contenido mediante capas alfa o efectos."
+    },
+    {
+       "id": "3",
+       "name": "DRUM GO DRUM - KDA Lyric Video",
+       "category": "<a href=\"work.html?id=0\">Motion Graphics</a>",
+       "resume": "Tipografía cinética para video musical",
+       "video": "assets/video/drum-go-drum.mp4",
+       "images": [
+        {
+            "img": "assets/img/categories/motion/kda/1.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/2.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/3.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/4.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/5.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/6.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/7.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/8.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/9.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/10.png"
+        },
+        {
+            "img": "assets/img/categories/motion/kda/11.png"
+        }
+       ],
+       "text": "Se trata de un fragmento de la canción DRUM GO DUM del grupo KDA al que le he aplicado la letra en formato de video, así como un fondo y unos efectos.<br>Para ello he empleado la tipografía Oswald ya que me recordaba a la que usan en sus vídeos.<br>Como referencia principal he usado uno de sus lyric videos ya que quería conservar su esencia lo máximo posible.<br>En el texto he usado efectos simples en su mayoría. He jugado con la transformación (escala, posición y opacidad sobretodo) y en algunos casos he creado formas a partir de estos textos para poder estirarlos. También he usado los propios efectos de texto un par de veces para alterar la opacidad y la posición.<br>Me he valido de sólidos y máscaras para realizar unas transiciones, así como la transición “barrido lineal” en algunas ocasiones.<br>En una parte de la composición, empleo un objeto nulo a modo de cámara para generar una tipografía kinética.<br>Por lo general, lo que he tratado de hacer ha sido sincronizar los efectos y la música con los golpes de audio o con lo que decía la propia canción."
+    },
+    {
+       "id": "4",
+       "name": "GEOMETRIK",
+       "category": "<a href=\"work.html?id=1\">Web Design</a>",
+       "resume": "Juego educativo web interactivo",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/web/geometrik/2.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/5.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/4.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/6.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/3.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/7.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/8.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/9.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/10.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/11.png"
+        },
+        {
+            "img": "assets/img/categories/web/geometrik/2.png"
+        }
+       ],
+       "text": "Geometrik es el nombre que decidí darle a mi proyecto de diseño web de clase. Para este proyecto, debíamos crear un juego educativo, funcional y, a ser posible, divertido o entretenido. También debíamos implementar javascript e incorporar alguna librería javascript para su funcionamiento.<br><br>La librería que escogí para este trabajo fue Three.js. Three.js básicamente es una librería que nos deja crear, mostrar e interactuar con gráficos 3D dentro de un navegador web, así como dotar a estos de diferentes iluminaciones y/o animaciones. En cuanto al juego diseñado, se trata de un juego para el aprendizaje de los poliedros. Un poliedro (del griego πολύεδρον (polyedron), de la raíz πολύς (polys), \"muchas\" y de ἕδρα (hedra),\"base\", \"asiento\", \"cara\") es un cuerpo volumétrico geométrico formado por varias caras planas. Dependiendo del número de caras, recibe un nombre u otro. El objetivo de este juego es pues, el aprendizaje del nombre de estos, el conocimiento de sus características y cómo diferenciarlos.<br><br>La página está dividida en 3 apartados: Play, Documentation y About. En About cuento muy resumidamente en qué consiste el proyecto, en Documentation doy información sobre los poliedros regulares (aquellos en los que todas las caras son iguales) y, finalmente, en Play comienza el juego. Este juego tiene a su vez dos niveles. El primero, el básico trata de escoger el nombre correcto del poliedro que se muestra. Sirve como primer paso para familiarizarte con los nombres. Tras este pasas al segundo nivel, que es un poco más avanzado. En este nivel debes identificar los poliedros que aparecen y elegir la opción del poliedro que NO se muestra. En este nivel se establece un sistema de puntuación básico que suma por respuesta correcta y resta por incorrecta.<br><br>La página web es totalmente responsive y esta adaptada a distintos tipos de pantallas o dispositivos. Podéis probarlo <b><a href=\"https://justriku.github.io/Geometrik/index.html\">en este link</a>.<b>"
+    },
+    {
+       "id": "5",
+       "name": "Pokedex",
+       "category": "<a href=\"work.html?id=1\">Web Design</a>",
+       "resume": "Web enciclopedia de Pokemon",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/web/pokedex/1.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/2.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/3.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/4.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/5.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/6.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/7.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/8.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/9.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/10.png"
+        },
+        {
+            "img": "assets/img/categories/web/pokedex/11.png"
+        }
+       ],
+       "text": "Diseño de una pokedex (enciclopedia pokemon con datos de todos estos seres) en formato web. Se nos propuso como proyecto de clase crear una página web utilizando una API. Una API ​ es una pieza de código que permite a diferentes aplicaciones comunicarse entre sí y compartir información y funcionalidades. Una API es un intermediario entre dos sistemas, que permite que una aplicación se comunique con otra y pida datos o acciones específicas. <br><br>En la API que yo escogí <b><a href=\"https://pokeapi.co\">https://pokeapi.co</a></b>, se recogen los datos de una gran cantidad de pokemon. Lo que me encargué de hacer es recoger esos datos, organizarlos y crear una web alrededor de ellos. Hay algunas APIs que tienen los datos más organizados y son más fáciles de acceder a ellos por grupos. Esta, sin embargo, no era así. Para cada pokemon tenía que hacer una petición nueva, es decir, no podía importar todos los datos de una vez. Aprovechándome de esta característica, agregué una animación de carga mientras se realizaban estas peticiones.<br><br>La página consta de 4 partes: la principal, página de favoritos, capturado y detalles. En la principal, está la lista de pokemon en la que podemos verlos todos, indicar cuales hemos capturado ya y cuáles son nuestros favoritos. Desde ella también podemos acceder a las otras páginas a través de los botones o clicando dos veces en cada pokemon para ver sus detalles. Podeis probar esta pokedex  <b><a href=\"https://justriku.github.io/Pokedex-API/\">en este link</a><b>."
+    },
+    {
+       "id": "6",
+       "name": "APEX",
+       "category": "<a href=\"work.html?id=2\">Branding</a>",
+       "resume": "Diseño de logotipo para equipo de Karts",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/brand/apex/2.png"
+        },
+        {
+            "img": "assets/img/categories/brand/apex/5.png"
+        },
+        {
+            "img": "assets/img/categories/brand/apex/6.png"
+        },
+        {
+            "img": "assets/img/categories/brand/apex/helmet.png"
+        },
+        {
+            "img": "assets/img/categories/brand/apex/Mascarilla.png"
+        },
+        {
+            "img": "assets/img/categories/brand/apex/1.png"
+        },
+        {
+            "img": "assets/img/categories/brand/apex/3.png"
+        },
+        {
+            "img": "assets/img/categories/brand/apex/4.png"
+        },
+        {
+            "img": "assets/img/categories/brand/apex/01.png"
+        }
+       ],
+       "text": "Para el diseño de este logotipo, traté de crear una logo que reflejase la velocidad. Quería un logo que fuera dinámico por lo que busqué una tipografía que fuera capaz de reflejar ese dinamismo a través de algún tipo de inclinación. Modifiqué también la tipografía para crear una flecha hacia la derecha simbolizando el avance y la velocidad una vez más. Al ser un equipo madrileño, y por petición del cliente, añadí las estrellas de la comunidad de Madrid a unas de las versiones del logo, aunque este puede usarse sin ellas también."
+    },
+    {
+       "id": "7",
+       "name": "Dieteticamente",
+       "category": "<a href=\"work.html?id=2\">Branding</a>",
+       "resume": "Diseño de logotipo para marca de asesoria nutricional",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/brand/diet/1.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/2.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/3.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/4.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/5.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/6.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/7.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/8.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/9.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/Cards.png"
+        },
+        {
+            "img": "assets/img/categories/brand/diet/Cards-2.png"
+        }
+       ],
+       "text": "Para este diseño trate de crear un logotipo simple y minimalista, tratando de que todos los elementos fueran reconocibles con el menor número de elementos posibles. Se trató de hacer un logotipo lo más amable posible, sin que perdiera seriedad. Este logotipo debe transmitir los conceptos de alimentación saludable y salud mental, ya que están relacionados con los valores que se quieren transmitir en el negocio. Este negocio es una asesoría nutricional basada en consulta online privada y personalizada ofrecido por una técnico Superior en Dietética y en Farmacia."
+    },
+    {
+       "id": "8",
+       "name": "Haircafé",
+       "category": "<a href=\"work.html?id=2\">Branding</a>",
+       "resume": "Diseño de logotipo para cafetería-peluquería cubana",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/brand/HC/7.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/2.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/3.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/8.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/6.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/5.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/4.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/9.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/11.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/10.png"
+        },
+        {
+            "img": "assets/img/categories/brand/HC/1.png"
+        }
+       ],
+       "text": ""
+    },
+    {
+       "id": "9",
+       "name": "Space Animals",
+       "category": "<a href=\"work.html?id=2\">Branding</a>",
+       "resume": "Diseño de festival ficticio",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/brand/SA/Logos.png"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/Logos1.png"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/Logos2.png"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/Mapa.png"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/1.jpg"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/2.jpg"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/3.jpg"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/4.jpg"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/5.gif"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/6.png"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/Poster.png"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/7.png"
+        },
+        {
+            "img": "assets/img/categories/brand/SA/8.png"
+        }
+       ],
+       "text": "Space Animals es un festival imaginario novedoso cuyo objetivo es crear un espacio de disfrute para los amantes de las mascotas. A nuestro festival podéis venir con vuestras mascotas disfrazadas y disfrutar de un ambiente especial preparado con una temática espacial que cambiará con cada edición, pero centrándose siempre en elementos del espacio exterior, como pueden ser los distintos planetas, astronautas, viajes espaciales… Tendremos espacios para pasear con vuestras mascotas, sacaros fotos, talleres de disfraces, conciertos, zona relax, piscina…<br><br>Se trata de un festival para amantes de los animales, que tengan mascota o no. En este lugar se disfrutará de la compañía mutua entre animales y seres humanos en un ambiente único como lo es el espacio exterior, La entrada está restringida a mamíferos y es gratuita para pasear, para los conciertos y talleres deberán obtener una entrada aparte.  La música del festival no será en exceso estridente para no molestar a los animales y habrá restaurantes con opciones veganas y todos los productos posibles serán veganos o cruelty-free."
+    },
+    {
+       "id": "10",
+       "name": "Pensamiento Lateral",
+       "category": "<a href=\"work.html?id=3\">Editorial Design</a>",
+       "resume": "Rediseño y creación de colección",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/edit/PL/1.png"
+        },
+        {
+            "img": "assets/img/categories/edit/PL/7.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/PL/8.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/PL/9.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/PL/10.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/PL/2.png"
+        },
+        {
+            "img": "assets/img/categories/edit/PL/3.png"
+        },
+        {
+            "img": "assets/img/categories/edit/PL/4.png"
+        },
+        {
+            "img": "assets/img/categories/edit/PL/5.png"
+        }
+       ],
+       "text": "El objetivo del proyecto era rediseñar un libro ya existente que formará parte de una nueva colección sobre diseño y creatividad para una editorial ficticia o real. Ha de mostrar que es un ensayo, pero pensado para un lector del siglo XXI más acostumbrado a lo visual. Su público generalmente van a ser estudiantes o profesionales relacionados con el mundo del diseño.<br><br>Se buscaba un rediseño que facilite la comprensión de los contenidos del libro al lector, a la vez que se siente atraído por la portada y el diseño de los interiores. Asimismo, se ha de concebir el rediseño para crear una colección de ensayos y temas de diseño. No se debe concebir como un libros aislado, sino como parte de un sistema.<br><br>Mi elección para el rediseño fue \"El pensamiento lateral\". Escogí este libro principalmente por dos razones: la primera es que considero que es un libro al que se le puede dar mucho juego porque se trata de un título \"clásico\" y solo el hecho de modernizarlo o buscar formas de hacerlo más actual ya dan mucho juego. La segunda razón para escogerlo es que fue mi elección el año pasado y no obtuve los resultados que me gustaría y no encaré el proyecto por donde debía y el resultado que obtuve dejó mucho que desear.<br><br>Orientado a personas que comienzan a estudiar diseño gráfico o diseñadores junior y necesitan saber los orígenes de la disciplina y hacia dónde se dirige, así como docentes de diseño gráfico y profesionales asentados. El libro se distribuirá en librerías especializadas en diseño y generalistas.<br><br>Para este rediseño quise centrarme en que fuera una obra creativa, amena de leer, entretenida, divertida y/o que te hiciera pensar (al ser un libro que trata sobre el pensamiento) para mantener el interés en ella. Los enfoques en los que pensé en un principio fueron:<br><ul><li>Split, una obra separada de alguna forma</li><li>Matemático</li><li>Lectura lateral</li></ul><br><br>Para el formato, quería que fuera un formato tirando a grande para que fuera un libro manejable. Me inspiré en unos libros de encuadernación que vimos en clase \"The Book Block\"  y \"The Book Cover\" editados por el estudio portugués 0.itemzero. Decidí replicar la idea de que el libro pudiera \"aplanarse\", además de también formar un cuadrado con los dos pliegos del libro. Para ello me basé en el formato del DIN A4 (297x210mm), del que saque la altura y, para la anchura, dividí esta entre 2, quedando un formato de 297x148,5mm que al plegarse formarían un cuadrado de 297x297mm.<br><br>En cuanto a la retícula, emplee una retícula modular de 7 columnas por 11 filas con un medianil de 2mm. Ésta retícula me permitía ser más flexible a la hora de, por ejemplo, dividir la página y dejar un poco de espacio entre los textos y la división. Esta retícula además iba encajada dentro de unos márgenes de 12,7mm por todos los lados.<br><br>Para este rediseño emplee la tipografía Poppins principalmente porque, al tratarse de una tipografía de Google Fonts, es accesible para todo el mundo y no hay lio con las licencias. También la escogí porque es una sans-serif, lo cual aporta un aspecto más moderno, y porque, gracias a la gran cantidad de pesos que posee la tipografía, fui capaz de emplearla para todos los estilos desde los logos de la cubierta hasta el texto seguido.<br>El texto seguido tiene un tamaño de 12pt.<br><br>Para todo el diseño emplee los colores Azul y Amarillo. La razón fue que buscaba dos colores que contrastaran bien y estos fueron los que, finalmente me convencieron tras unas cuantas pruebas con distintas paletas de colores. Además de estos se usan para los textos el negro (texto seguido) y el blanco (logotipos).<br><br>En la cubierta y contracubierta, al igual que en el resto de la publicación, jugué con la idea de la división para crear un diseño que, además jugara con el título del libro. Esta idea la repliqué en toda la colección.<br><br>En cuanto a las imágenes, como las originales estaban quemadas y con poca resolución, no podían emplearse. La solución en este caso fue su vectorización y recoloreado. "
+    },
+    {
+       "id": "11",
+       "name": "TypeNotes",
+       "category": "<a href=\"work.html?id=3\">Editorial Design</a>",
+       "resume": "Rediseño de publicación periódica",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/edit/TN/1.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/2.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/3.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/4.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/5.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/6.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/7.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/8.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/9.png"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/10.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/TN/12.png"
+        }
+       ],
+       "text": "El objetivo del proyecto era generar una publicación bimensual de contenidos y enfoque similares, pero más económica y abordable, para lo cual diseñaremos una publicación periódica de carácter híbrido entre periódico y revista. No se trata de sustituir ni rediseñar TypeNotes, se trata de crear una publicación complementaria basada en ella.<br><br>Se plantea la creación de una revista que atraiga la atención de jóvenes diseñadores para que se interesen más en la tipografía, las tendencias y el mundo del diseño gráfico. Esto se consigue empleando combinando técnicas, rompiendo con estructuras y dándole identidad propia a cada artículo.<br><br>TypeNotes es la más reciente incorporación al panorama de las revistas temáticas de diseño y tipografía. En sus más de cien páginas podemos encontrar artículos de opinión, de divulgación y guías prácticas para los amantes de la tipografía, todo ello presentado con el catálogo de fuentes de FontSmith y el diseño gráfico de The Counter Press.<br><br>El mundo de las publicaciones en papel sigue creciendo y se consolida como un soporte idóneo para la reflexión y la divulgación del ámbito cultural. TypeNotes no es sólo una revista para tipógrafos, en ella la tipografía también es una excusa para hablar de actualidad, de historia y de cultura contemporánea.<br><br>Para el diseño de la retícula, consulté la documentación que se nos brindó en el aula.<br><br>Hice varias pruebas y al final me decidí por una retícula modular de 10x12 siguiendo las indicaciones de la página de Robin Berhuijs para adaptarla a mi tamaño de página (28x40cm). <br><br>Decidí usar 12 columnas pues es un número perfecto para una retícula dada la flexibilidad que aporta al poder dividirla entre 2, entre 3, entre 4 y entre 6. También, gracias a la guía, conseguí ajustar todo a la retícula base, lo que le aportaba un ritmo vertical bastante bueno.<br><br>Para el diseño de la retícula, consulté la documentación que se nos brindó en el aula.<br><br>Hice varias pruebas y al final me decidí por una retícula modular de 10x12 siguiendo las indicaciones de la página de Robin Berhuijs para adaptarla a mi tamaño de página (28x40cm). <br><br>Decidí usar 12 columnas pues es un número perfecto para una retícula dada la flexibilidad que aporta al poder dividirla entre 2, entre 3, entre 4 y entre 6. También, gracias a la guía, conseguí ajustar todo a la retícula base, lo que le aportaba un ritmo vertical bastante bueno.<br><br>Finalmente, como resultado, obtuve una retícula modulas bastante flexible que me ayudo muchísimo a organizar los elementos y me facilitó en gran medida el trabajo.<br><br>Como fuente para la publicación, en un principio planeaba emplear las que se nos proporcionaros. Sin embargo, no tardé en descubrir que no estaban todas las fuentes al no poder replicar el logo de TypeNotes al no tener fuentes similares. <br>Por ello, decidí cambiar del todo las fuentes y consideré emplear más de una, pero al final me decanté por utilizar únicamente una. Poppins<br><br>Elegí Poppins pues, al ser una Sans Serif, dotaba de un carácter más moderno e informal que era lo que quería que transmitiera la revista. Además de que se trata de una fuente con una gran variedad de pesos, lo cual la hacía muy flexible.<br><br>Para el diseño de la retícula, consulté la documentación que se nos brindó en el aula.<br><br>Hice varias pruebas y al final me decidí por una retícula modular de 10x12 siguiendo las indicaciones de la página de Robin Berhuijs para adaptarla a mi tamaño de página (28x40cm). <br><br>Decidí usar 12 columnas pues es un número perfecto para una retícula dada la flexibilidad que aporta al poder dividirla entre 2, entre 3, entre 4 y entre 6. También, gracias a la guía, conseguí ajustar todo a la retícula base, lo que le aportaba un ritmo vertical bastante bueno.<br><br>Finalmente, como resultado, obtuve una retícula modular bastante flexible que me ayudó muchísimo a organizar los elementos y me facilitó en gran medida el trabajo.<br><br>Como fuente para la publicación, en un principio planeaba emplear las que se nos proporcionaron. Sin embargo, no tardé en descubrir que no estaban todas las fuentes al no poder replicar el logo de TypeNotes al no tener fuentes similares. <br>Por ello, decidí cambiar del todo las fuentes y consideré emplear más de una, pero al final me decanté por utilizar únicamente una. Poppins<br><br>Elegí Poppins pues, al ser una Sans Serif, dotaba de un carácter más moderno e informal que era lo que quería que transmitiera la revista. Además de que se trata de una fuente con una gran variedad de pesos, lo cual la hacía muy flexible.<br><br>Tras la investigación, averigüé que para revistas lo habitual es escoger incluso tamaños pequeños, que van desde los 7 hasta los 10 puntos , aunque el punto 9 es uno de los más comunes. Sin embargo, decidí probar en cuerpo con tamaño 12pt y, finalmente, las pruebas impresas me demostraron que no era tan práctico.<br><br>Me apegué entonces a un tamaño de cuerpo que iba de 8pt a 10pt, siendo este último el más habitual. En titulares, subtitulares y páginas especiales, el tamaño de fuente era superior, de entre 12 y 18, pudiendo ser mayor según las necesidades del diseño.<br><br>Para la cubierta, quería conservar la idea del cuadrado blanco con el nombre de TypeNotes, pero no quise hacerlo literal.<br><br>Mi idea principal fue generar el cuadrado blanco por mancha, es decir, crear un elemento que hiciera de ruido y cuyo conjunto en composición generara la imagen del cuadrado blanco.<br><br>Tras varias pruebas, acabé creando un motivo con TypeNotes escrito en varios estilos y pesos. Me pareció interesante, considero que se consigue lo que planeaba, por lo que desarrollé esa idea.<br>Para el fondo creé una fusión a partir de líneas con diferentes grosores que posteriormente modifiqué en Photoshop para conseguir el efecto final.<br><br>Como ya he mencionado antes. Mi intención era (pese a que la revista es bastante actual y tiene ya un carácter moderno) modernizar aún más la revista. Para ello me ayudé del formato y de los artículos para que cada uno tuviera un carácter propio que no fuera eclipsado por el estilo de la revista (aunque éste siguiera presente).<br><br>Hice uso del color magenta como elemento principal y de las tramas que generé en Photohsop para determinadas imágenes. Jugué mucho con los márgenes y las retículas que generé para generar orden y caos (desorden) según conviniera."
+    },
+    {
+       "id": "12",
+       "name": "Videojuegos",
+       "category": "<a href=\"work.html?id=3\">Editorial Design</a>",
+       "resume": "Librillo sobre los tipos de videojuegos",
+       "video": "",
+       "images": [
+        {
+            "img": "assets/img/categories/edit/video/1.png"
+        },
+        {
+            "img": "assets/img/categories/edit/video/2.png"
+        },
+        {
+            "img": "assets/img/categories/edit/video/3.png"
+        },
+        {
+            "img": "assets/img/categories/edit/video/4.png"
+        },
+        {
+            "img": "assets/img/categories/edit/video/5.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/video/6.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/video/7.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/video/8.png"
+        },
+        {
+            "img": "assets/img/categories/edit/video/9.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/video/10.jpg"
+        },
+        {
+            "img": "assets/img/categories/edit/video/11.png"
+        }
+       ],
+       "text": "Este fue mi primer proyecto editorial. Se trataba de un proyecto para clase en el que debíamos crear un librillo (de extensión libre pero formado por cuadernillos múltiplos de 4) y con la temática que nosotros eligiéramos. Para este librillo decidí hacer una mini guía sobre los tipos de videojuegos a modo de presentación.<br><br>En este librillo, iríamos viendo los diferentes tipos o categorías principales por las que se clasifican los diferentes videojuegos (sin entrar tampoco en categorías que tengan que ver con su desarrollo, si no puramente en el tipo de juego). En él, también veríamos personajes icónicos de cada categoría.<br><br>En cuanto al tratamiento de imagen, utilice tramas, modelos semitonos, umbrales y movimiento en canales alfa y CMYK para generar esa vibración, efecto glitch o desplazamiento de algunas imágenes. Este libro es más una experiencia visual que un libro de lectura al uso. La tipografía está elegida para interactuar con la imágenes y ser otro elemento visual, aunque la información que se puede leer en ella es real, el objetivo de este libro no es informar."
+    },
+    {
+       "id": "13",
+       "name": "anglais",
+       "category": "<a href=\"work.html?id=5\">Animation</a>",
+       "resume": "Animación sobre un relato corto",
+       "video": "assets/video/anglais.mp4",
+       "images": [
+        {
+            "img": "assets/img/categories/anim/anglais/1.png"
+        },
+        {
+            "img": "assets/img/categories/anim/anglais/2.jpg"
+        },
+        {
+            "img": "assets/img/categories/anim/anglais/3.jpg"
+        },
+        {
+            "img": "assets/img/categories/anim/anglais/4.png"
+        },
+        {
+            "img": "assets/img/categories/anim/anglais/5.png"
+        },
+        {
+            "img": "assets/img/categories/anim/anglais/6.jpg"
+        }
+       ],
+       "text": "Creamos esta animación como proyecto para la asignatura de Ilustración. En este proyecto se nos planteaba la idea de ilustrar un cuento corto. Estos proceden del libro Ejercicios de estilo de Queneau. En este libro, el autor trata de escribir 99 veces la misma historia cambiando el enfoque o la forma de contarla.<br><br>Mi compañera Nerea y yo, decidimos ilustrar este relato llamado anglicismos, que renombramos Anglais, en el que se describen los sucesos en una especie de pseudo-inglés inentendible que tuvimos que descifrar antes de animarlo. Decidimos crear una animación simple de tono burlesco, en la que exageramos lo máximo posible los rasgos de los personajes según las descripciones que hacían o les representamos siendo todo lo opuestos a lo que decían estas características. Añadimos una voz de narrador en off que si hablaba en el inglés que traducimos, y añadimos en los subtítulos este pseudo-inglés. "
+    },
+    {
+       "id": "14",
+       "name": "feelings",
+       "category": "<a href=\"work.html?id=5\">Animation</a>",
+       "resume": "Animación sobre los sentimientos",
+       "video": "assets/video/feelings-.mp4",
+       "images": [
+        {
+            "img": "assets/img/categories/anim/feelings/feelings.png"
+        },
+        {
+            "img": "assets/img/categories/anim/feelings/1.png"
+        },
+        {
+            "img": "assets/img/categories/anim/feelings/2.jpg"
+        },
+        {
+            "img": "assets/img/categories/anim/feelings/3.jpg"
+        },
+        {
+            "img": "assets/img/categories/anim/feelings/4.jpg"
+        },
+        {
+            "img": "assets/img/categories/anim/feelings/5.png"
+        }
+       ],
+       "text": "La idea principal o concepto de este trabajo era trabajar sobre una o más emociones realizando una animación abstracta. Para ello, a mi se me ocurrió emplear una pelotita y jugar con la iluminación/saturación y el brillo o resplandor que ésta emitiera.<br><br>En un principio, la pelotita se encuentra triste y apagada, además realiza un par de “suspiros” para acentuar esta sensación de tristeza o aburrimiento. En ese momento entra en escena una segunda pelota que intenta animar a la primera. Para ello, la golpea para \"despertarla\" y después se dispone a jugar un rato con ella. En todo este proceso, la pelotita azul va saturándose poco a poco y adquiriendo un poco de resplandor que es difícil de apreciar en un principio. Más adelante, la pelotita más animada, busca otra acción que le pueda alegrar un poco más y, entonces, comienza a vibrar emitiendo un sonido para representar que está hambrienta. Para saciar su hambre, se introduce en un pac-man con forma de R y sus comidas favoritas son los elementos que debe devorar. Finalmente abandona el pac-man y le reciben unos cuantos confetis celebrando su victoria en el juego e iluminándose más aún como resultado. En la siguiente escena otra esfera de color blanco resplandeciente también, cae directamente sobre nuestra primera pelota, dejándola aplanada durante un instante a causa del impacto. Estas dos pelotas se acercan tímidamente entre sí, hasta que llega un punto en el que se conectan y empiezan a resplandecer al máximo de su capacidad. Ambas terminan uniéndose y fundiéndose con el fondo. Para terminar, aparece una pequeña brillante sonrisa acompañada de una carcajada para representar que nuestra primera pelota ya es totalmente feliz. <br><br>Para el desarrollo de la animación empleé prácticamente en su totalidad las herramientas del propio After Effects, a excepción de la música, algún efecto de sonido y un par de elementos que tuve recrear en Photoshop. Para el fondo, use una textura que animé en el propio AE para que simulara un papel moviéndose.Para la introducción usé dos tipografías, una a modo de pre-introducción (Riku presenta) y otro con el nombre de la animación. Para la primera tipografía escogí una palo seco en mayúsculas para que el mensaje fuera claro y \"serio\". En la segunda empleé una script porque quería que tuviera un toque más humano ya que la animación trata sobre las emociones."
+    }
+]

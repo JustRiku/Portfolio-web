@@ -1,0 +1,141 @@
+@import "_variables"
+    
+#header
+    .work-menu
+        position: relative
+
+.work-container
+    padding: 20px
+    height: 80vh
+    overflow-y: scroll
+
+.work-title
+    text-transform: uppercase
+    font-weight: $font-black
+    // transition: .3s ease-in-out all
+    // &:hover
+    //     font-weight: $font-thin
+
+.work-grid
+    display: grid
+    grid-template-columns: repeat(3, 1fr)
+    grid-auto-rows: 300px
+    .proyect
+        width: 100%
+        height: 100%
+        overflow: hidden
+        position: relative
+        transition: .3s ease-in-out all
+        &:hover img
+            transform: scale(1.1)
+        img
+            display: block
+            width: 100%
+            height: 100%
+            object-fit: cover
+            transition: .3s ease-in-out all
+        .proyect-overlay
+            position: absolute
+            top: 0
+            left: 0
+            width: 100%
+            height: 100%
+            color: var(--bg-color)
+            background: var(--base-color-fade)
+            display: flex
+            flex-direction: column
+            align-items: center
+            justify-content: center
+            opacity: 0
+            transition: .3s ease-in-out all
+            &:hover
+                opacity: 1
+            .proyect-name
+                // margin-top: 0
+                // padding-left: 0
+                font-size: 24px
+                text-align: center
+                font-weight: $font-bold
+.work-controlls
+    font-size: $big-font
+    font-weight: $font-black
+    padding: 20px
+    position: fixed
+    width: 100%
+    display: flex
+    justify-content: space-between
+    bottom: 0
+    span:hover
+        transition: .3s ease all
+        font-weight: $font-light
+        text-shadow: 0 0 10px var(--bg-color)
+    .go-back i
+        transition: .3s ease all
+        transform: translateX(40px)
+        opacity: 0
+    .go-back:hover i
+        transform: translateX(0)
+        opacity: 1
+    .go-next i
+        transition: .3s ease all
+        transform: translateX(-40px)
+        opacity: 0
+    .go-next:hover i
+        transform: translateX(0)
+        opacity: 1
+
+.hide
+    display: none
+
+.footer-work
+    text-align: center
+    position: fixed
+    bottom: 10px
+    left: 0
+    right: 0
+
+.popup-img
+    position: fixed
+    top: 0
+    left: 0
+    background: var(--base-color-fade)
+    height: 100%
+    width: 100%
+    z-index: 100
+    display: none
+    span
+        position: absolute
+        top: 0
+        right: 40px
+        font-size: 60px
+        font-weight: $font-thin
+        color: var(--bg-color)
+        cursor: pointer
+        z-index: inherit
+        transition: .3s ease all
+        &:hover
+            transform: scale(1.1)
+            text-shadow: 0 0 10px var(--bg-color)
+    img
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+        width: 80%
+        height: 80%
+        object-fit: contain
+
+@media screen and (max-width: 950px)
+    .work-grid
+        grid-template-columns: repeat(2, 1fr)
+        grid-auto-rows: 300px
+
+    .work-controlls
+        font-size: $big-font-mobile
+@media screen and (max-width: 550px)
+    .work-grid
+        display: flex
+        flex-direction: column
+
+    .work-controlls
+        font-size: $big-font-mobile2

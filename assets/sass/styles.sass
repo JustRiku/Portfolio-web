@@ -1,0 +1,641 @@
+@import "lib/_variables"
+@import "lib/_fonts"
+@import "lib/_animations"
+@import "lib/_work"
+@import "lib/_proyects"
+    
+*
+    box-sizing: border-box
+    padding: 0
+    margin: 0
+    scroll-behavior: smooth !important
+
+::-webkit-scrollbar
+    display: none
+
+//COLORS
+\:root
+    --color1: #000000
+    --color2: #fff
+    --color1-fade: rgba(0, 0, 0, 0.6)
+    --color2-fade: rgba(255, 255, 255, 0.6)
+    --base-color: var(--color2)
+    --bg-color: var(--color1)
+    --base-color-fade: var(--color2-fade)
+    --bg-color-fade: var(--color1-fade)
+    --base-color: #fff
+//OTHER
+    --progress: 0
+//THEMES
+.dark
+    --base-color: var(--color2)
+    --bg-color: var(--color1)
+    --base-color-fade: var(--color2-fade)
+    --bg-color-fade: var(--color1-fade)
+
+.bright
+    --base-color: var(--color1)
+    --bg-color: var(--color2)
+    --base-color-fade: var(--color1-fade)
+    --bg-color-fade: var(--color2-fade)
+
+#progress-bar
+    height: 5px
+    width: var(--progress)
+    background: var(--base-color)
+    position: fixed
+    bottom: 0
+    right: 0
+    left: 0
+    z-index: 101
+
+html
+    scroll-behavior: smooth
+    cursor: none
+
+body
+    font-family: 'Sora', sans-serif
+    transition: .3s ease-in-out
+    font-size: $regular-font
+    font-weight: $font-regular
+    background-color: var(--bg-color)
+    color: var(--base-color)
+
+.main
+    // scroll-snap-type: y mandatory
+    // overflow-y: scroll
+    height: 100vh
+    scroll-behavior: smooth
+    // section
+    //     scroll-snap-align: center
+
+a
+    color: var(--base-color)
+    text-decoration: none
+    transition: .3s ease-in-out all
+    &:hover
+        text-shadow: 1px 1px 10px var(--base-color)
+
+.active-link
+    font-weight: $font-black
+    font-size: 20px
+    // color: red
+
+li
+    list-style: none
+
+//HEADER
+#header
+    nav
+        width: 100%
+        display: flex
+        justify-content: space-between
+        padding: 22px 78px
+        border-bottom: 1px solid var(--base-color)
+        z-index: 100
+        align-items: center
+        transition: .3s ease-in-out all
+        background-color: #ffffff00
+        &:hover
+            background-color: var(--bg-color)
+        .nav-list
+            width: 486px
+            display: flex
+            justify-content: space-between
+            align-items: center
+
+.menu
+    position: fixed
+    top: 0
+
+
+//CURSOR ANIMATION
+.cursor
+    position: fixed
+    width: 30px
+    height: 30px
+    border: 2px solid var(--base-color)
+    box-shadow: 0 0 16px rgba(255, 255, 255, 0.525)
+    border-radius: 50%
+    left: 0
+    top: 0
+    pointer-events: none
+    transform: translate(-50%, -50%)
+    z-index: 2000
+    animation: cursorAnim .5s infinite alternate
+
+.cursor-black
+    border: 2px solid var(--bg-color)
+
+
+.expand
+    animation: cursorAnim3 .5s forwards
+    border: 1px solid var(--first-color)
+    box-shadow: 0 0 16px rgba(255, 0, 55, 0.525)
+
+//BUTTON STYLES
+button
+    background: var(--bg-color)
+    border-radius: 200px
+    border: 2px solid var(--base-color)
+    padding: 15px 40px
+    cursor: pointer
+    transition: .3s ease-in-out all
+    color: var(--base-color)
+    &:hover
+        background: var(--base-color)
+        color: var(--bg-color)
+        box-shadow: 0 0 10px var(--base-color)
+        a
+            color: var(--bg-color)
+
+.switch
+    padding: 0
+    color: var(--base-color)
+    position: relative
+    display: flex
+    transition: .3s ease-in-out all
+    &:hover
+        background: var(--bg-color)
+        color: var(--base-color)
+    &::after
+        content: ""
+        display: block
+        width: 30px
+        height: 30px
+        position: absolute
+        background: var(--base-color)
+        top: 0
+        left: 0
+        right: unset
+        border-radius: 100px
+        transition: .3s ease-in-out all
+    &.active
+        &::after
+            right: 0
+            left: unset
+        
+    span
+        width: 30px
+        height: 30px
+        line-height: 30px
+        display: block
+
+//TEXT STYLES
+.small-font
+    font-size: $small-font
+
+.big-font
+    font-size: $big-font
+
+.biggest-font
+    font-size: $biggest-font
+
+.medium-font
+    font-size: $medium-font
+
+.bold
+    font-weight: $font-black       
+
+.categories-list
+    font-weight: $font-black
+    transition: .3s ease-in-out all
+    &:hover    
+        font-weight: $font-extralight
+
+.slim
+    transition: .3s ease-in-out
+    &:hover
+        font-weight: $font-extralight
+
+//COINTAINER STYLES
+// .container
+//     margin: 0 auto
+//     width: 80%
+
+.home-container
+    align-items: flex-end
+    width: 80%
+    margin: 0 auto
+    p
+        margin-bottom: 250px
+        width: 100%
+        z-index: 0
+    .align-center
+        text-align: center
+        transform: translateX(50%)
+    .align-right
+        text-align: right
+        margin-bottom: 300px
+        transform: translateX(-70%)
+
+.home-text
+    font-size: $extraregular-font
+
+.section
+    height: 100vh
+    opacity: .2
+    // transform: translateX(100px)
+    transition: .5s ease all
+
+.flex
+    display: flex
+    height: 100%
+
+.home-img
+    height: 80%
+    width: 100%
+    // z-index: 10
+    img
+        width: 100%
+        height: 100%
+        object-fit: contain
+
+.about-container
+    align-items: center
+
+.about-img
+    width: 50%
+    height: 100%
+    transition: .3s ease all
+    overflow: hidden
+    &:hover
+        img
+            transform: scale(1.1)
+    img
+        transition: .3s ease all
+        width: 100%
+        height: 100%
+        object-fit: cover
+.about-item
+    width: 30%
+    margin: 0 auto
+    display: flex
+    flex-direction: column
+    align-items: center
+    .btn
+        margin-top: 40px
+        font-size: $regular-font
+        font-weight: $font-medium
+
+.contact
+    display: flex
+    flex-direction: column
+    height: 100vh
+    padding-top: 100px
+
+.contact-me
+    position: relative
+    top: 0
+    font-weight: $font-black
+    font-size: 50px
+    text-align: center
+    transition: .3s ease-in-out
+    margin-bottom: 20px
+    &:hover
+        font-weight: $font-extralight
+
+.contact-container
+    width: 60%
+    margin: 0 auto
+    // align-items: center
+    text-align: center
+    gap: 20px
+
+.contact-info
+    div, p
+        padding-bottom: 10px
+
+.contact-image
+    width: 360px
+    height: auto
+    overflow: hidden
+    display: flex
+    align-items: center
+    justify-content: center
+    &:hover img
+        transform: scale(1.2)
+    img
+        width: 70%
+        height: 70%
+        object-fit: cover
+        transition: .3s ease all
+
+.contact-media
+    display: flex
+    flex-direction: row
+    justify-content: center
+    gap: 19px
+
+.media-icon
+    width: 56px
+    height: 56px
+    border-radius: 100%
+    border: 1px solid var(--base-color)
+    color: var(--base-color)
+    font-size: 28px
+    display: flex
+    align-items: center
+    justify-content: center
+    transition: .3s ease-in-out all
+    &:hover
+        background: var(--base-color)
+        box-shadow: 0 0 10px var(--base-color)
+        a
+            color: var(--bg-color)
+.contact-form
+    form
+        display: flex
+        flex-direction: column
+        gap: 20px
+        justify-content: flex-end
+        cursor: text
+    .btn
+        font-size: $regular-font
+        width: 212px
+        position: relative
+        left: 150px
+.contact-group
+    display: flex
+    flex-direction: column
+    justify-content: flex-start
+    width: 360px
+    height: 350px
+    .contact-form
+        width: 500px
+
+.contact-box
+    display: flex
+    flex-direction: column
+    gap: 10px
+    font-size: 28px
+    input
+        height: 50px
+    input, textarea
+        width: 100%
+        border-radius: 5px
+        border: 1px solid var(--base-color)
+        transition: .3s ease all
+        padding: .5rem 1rem
+        &:hover, &:focus, &:active
+            outline: none
+            box-shadow: 0 0 10px var(--base-color)
+            transform: scale(1.05)
+    textarea
+        height: 100%
+        resize: none
+
+.footer
+    height: 30px
+    text-align: center
+    position: relative
+    margin-top: 20px
+    margin-bottom: 20px
+    bottom: 25px
+    left: 0
+    right: 0
+
+.show
+    transform: translateX(0)
+    opacity: 1
+
+.move-commands
+    text-transform: capitalize
+    font-weight: $font-black
+    font-size: 24px
+    &:hover
+        text-shadow: none
+        font-weight: $font-light
+    i
+        transform: translateY(20px)
+        transition: .3s ease all
+        opacity: 0
+    &:hover i
+        transform: translateY(0)
+        opacity: 1
+
+.scroll-up
+    position: fixed
+    right: 3rem
+    bottom: 0
+    z-index: 10
+    font-size: 1.75rem
+    transition: .4s ease-in-out
+    opacity: 0
+    visibility: hidden
+
+.show-scroll
+    bottom: 1.5rem
+    opacity: 1
+    visibility: visible
+
+.hide-menu
+    top: -100px
+
+.hamburger
+    display: none
+    cursor: pointer
+
+.bar
+    display: block
+    width: 25px
+    height: 3px
+    margin: 5px auto
+    background: var(--base-color)
+    -webkit-transition: .3s ease-in-out all
+    transition: .3s ease-in-out all
+
+///MEDIA QUERIES
+
+@media screen and (max-width: 950px)
+    .scroll-up
+        font-size: 18px
+        right: 10px
+    .hamburger
+        display: block
+
+    .on .bar:nth-child(2)
+        opacity: 0
+
+
+    .on .bar:nth-child(1)
+        transform: translateY(8px) rotate(45deg)
+
+    .on .bar:nth-child(3)
+        transform: translateY(-8px) rotate(-45deg)
+
+    #header
+        nav
+            background: var(--bg-color)
+            padding: 20px
+        .nav-menu
+            .nav-list
+                visibility: hidden
+                opacity: 0
+                align-items: flex-end
+                position: fixed
+                right: -100px
+                top: 70px
+                flex-direction: column
+                transition: .3s ease-in-out all
+                .nav-item
+                    background: var(--bg-color)
+                    width: 100px
+                    text-align: right
+                    padding: 10px
+                    border-bottom: 1px solid var(--base-color)
+                    transition:.3s ease-in-out all
+                    &:hover
+                        background: var(--bg-color)
+                    a:hover
+                        text-shadow: none
+                        font-weight: $font-black
+                .switch
+                    margin-top: 10px
+                    box-shadow: none
+        .on
+            .nav-list
+                visibility: visible
+                opacity: 1
+                right: 0
+    //TEXT STYLES
+    .small-font
+        font-size: $small-font-mobile
+
+    .big-font
+        font-size: $big-font-mobile
+
+    .biggest-font
+        font-size: $biggest-font-mobile
+
+    .medium-font
+        font-size: $medium-font-mobile
+
+    .bold
+        font-weight: $font-black       
+
+    .categories-list
+        font-weight: $font-black
+        transition: .3s ease-in-out all
+        &:hover    
+            font-weight: $font-extralight
+
+    .slim
+        transition: .3s ease-in-out
+        &:hover
+            font-weight: $font-extralight
+
+    body
+        font-size: $regular-font-mobile
+
+    .home-text
+        font-size: $extraregular-font-mobile
+
+    .about-item
+        .btn
+            font-size: $regular-font-mobile
+
+    .home-container
+        align-items: flex-start
+        width: 100%
+        overflow: hidden
+        .align-center, .align-right
+            margin-top: 100px
+            transform: translate(0)
+            margin-bottom: 0
+            padding: 30px
+        p
+            // width: 25%
+
+    .home-img
+        height: 90%
+        // margin-top: 200px
+        position: absolute
+        top: 70px
+        img
+            object-fit: cover
+            object-position: right top
+    
+    .about-item
+        width: 70%
+        padding: 40px
+    
+    .about-img img
+        object-position: center center
+
+    .contact
+        height: 160vh
+
+    .contact-me
+        margin-bottom: 0
+        padding-top: 20px
+
+    .contact-container
+        width: 100%
+        flex-direction: column
+        align-items: center
+
+    .contact-form form
+        align-items: center
+        .btn
+            left: 0
+
+    .active-link
+        font-size: $regular-font-mobile
+
+    .work.section
+        height: auto
+
+    .contact
+        height: auto
+        padding-bottom: 30px
+        padding-top: 0
+        
+@media screen and (max-width:550px)
+    //TEXT STYLES
+    .active-link
+        font-size: $regular-font-mobile
+    .small-font
+        font-size: $small-font-mobile2
+
+    .big-font
+        font-size: $big-font-mobile2
+
+    .biggest-font
+        font-size: $biggest-font-mobile2
+
+    .medium-font
+        font-size: $medium-font-mobile2
+
+    .bold
+        font-weight: $font-black       
+
+    .categories-list
+        font-weight: $font-black
+        transition: .3s ease-in-out all
+        &:hover    
+            font-weight: $font-extralight
+
+    .slim
+        transition: .3s ease-in-out
+        &:hover
+            font-weight: $font-extralight
+
+    body
+        font-size: $regular-font-mobile2
+
+    .home-text
+        font-size: $extraregular-font-mobile2
+
+    .about-item
+        .btn
+            font-size: $regular-font-mobile2
+    body
+        max-width: 550px
+    .work.section
+        height: auto
+
+    .contact
+        height: 140vh
+        padding-bottom: 30px
+        padding-top: 0

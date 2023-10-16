@@ -1,0 +1,169 @@
+// main
+//     width: 95%
+//     margin: 0 auto
+    
+.proyects-flex
+    height: 100%
+    // overflow: hidden
+    width: 85%
+    margin: 0 auto
+
+
+#header
+    .proyects-menu
+        background: var(--bg-color)
+        position: relative
+    .menu-2
+        transition: .3s ease-in-out all
+        position: fixed
+        top: -80px
+        visibility: hidden
+        opacity: 0
+    .fixed
+        visibility: visible
+        opacity: 1
+        top: 0px
+
+
+.proyects-flex
+    .proyect-name, .category-name
+        padding-left: 20px
+    .proyect-name
+        // margin-top: 90px
+        font-size: 55px
+    .category-name
+        font-size: 19px
+        margin-bottom: 20px
+        font-weight: $font-light
+        font-style: italic
+    
+.proyect-flex-container
+    display: flex
+    .proyects-img-container
+        display: flex
+        flex-wrap: wrap
+        margin-right: 19px
+        width: 50%
+        height: 100%
+        // overflow-y: scroll
+        overflow-x: none
+        align-items: center
+        img
+            padding: 10px 0
+            object-fit: contain
+            width: 100%
+    .proyects-info
+        width: 50%
+        padding: 20px 60px
+        // overflow-y: scroll
+
+.footer-proyects
+    text-align: center
+    position: fixed
+    height: 20px
+    background: var(--bg-color-fade)
+    bottom: 0
+    left: 0
+    right: 0
+
+.flex-name
+    display: flex
+    div
+        width: 50%
+    .proyect-resume
+        padding: 20px 40px
+        font-size: 27px
+
+.video
+    width: 100%
+    transition: .3s ease-in-out all
+    border-radius: 5px
+    &:hover
+        box-shadow: 0 0 10px var(--base-color)
+
+.hide-video
+    display: none
+
+.first-image
+    width: 100%
+    height: 100%
+    padding: 20px 0
+    img
+        width: 100%
+        height: 100%
+        object-fit: cover
+
+.proyect-controlls
+    font-weight: $font-black
+    padding: 20px
+    width: 100%
+    display: flex
+    justify-content: space-between
+    text-transform: uppercase
+    span:hover
+        transition: .3s ease all
+        font-weight: $font-light
+        text-shadow: 0 0 10px var(--bg-color)
+    .previous i
+        transition: .3s ease all
+        transform: translateX(40px)
+        opacity: 0
+    .previous:hover i
+        transform: translateX(0)
+        opacity: 1
+    .next-proyect i
+        transition: .3s ease all
+        transform: translateX(-40px)
+        opacity: 0
+    .next-proyect:hover i
+        transform: translateX(0)
+        opacity: 1
+    .invisible
+        opacity: 0
+        visibility: hidden
+        pointer-events: none
+
+.proyect-grid
+    display: grid
+    grid-template-columns: repeat(4, 1fr)
+    gap: 20px
+    .proyect-img
+        grid-column: span 2
+        overflow: hidden
+        img
+            object-fit: cover
+            width: 100%
+            height: 100%
+
+@media screen and (max-width: 950px)
+    #header
+        .proyects-menu
+            position: fixed
+    .proyects-flex
+        padding-top: 80px
+        .proyect-name
+            font-size: 34px
+            padding: 10px
+        .proyect-resume
+            font-size: 18px
+    .proyect-grid
+        display: flex
+        flex-direction: column
+
+    .proyect-flex-container
+        flex-direction: column
+        .proyects-img-container
+            display: grid
+            grid-template-columns: repeat(2,1fr)
+            width: 100%
+            gap: 10px
+    .proyect-flex-container .proyects-info
+        padding: 10px
+        width: 100%
+
+@media screen and (max-width: 550px)
+    .proyects-flex
+        .proyect-name
+            font-size: 24px
+        .proyect-resume
+            font-size: 14px

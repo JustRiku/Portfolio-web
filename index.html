@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html class="language" lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/img/sprite.png">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <!-- ICONS -->
+    <script src="https://kit.fontawesome.com/de57eb2b11.js" crossorigin="anonymous"></script>
+    <title>Portfolio</title>
+</head>
+
+<body class="dark">
+    <div id="progress-bar"></div>
+    <div class="cursor"></div>
+    <div class="cursor2"></div>
+    <!-- HEADER -->
+    <header class="header" id="header">
+        <nav id="navbar" class="menu">
+            <a href="#" class="nav-logo">Riku</a>
+            <div class="nav-menu">
+                <ul class="nav-list grid">
+                    <li class="nav-item"><a href="#home" class="nav-link active-link">Home</a></li>
+                    <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                    <li class="nav-item"><a href="#work" class="nav-link">Work</a></li>
+                    <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
+                    <button class="switch" id="switch">
+                        <span><i class="fa-solid fa-circle"></i></span>
+                        <span><i class="fa-regular fa-circle"></i></span>
+                    </button>
+                </ul>
+            </div>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </nav>
+    </header>
+    <!-- MAIN -->
+    <main class="main">
+        <!-- HOME -->
+        <section class="home section show" id="home">
+            <div class="home-container container flex">
+                <p class="home-text align-center">Hi, I'm <span class="bold slim big-font">Riku</span><br> and I'm a <br><span
+                        class="bold slim medium-font">Graphic<br>Designer</span></p>
+                <div class="home-img"><img src="assets/img/Foto-1.png" alt="This is me"></div>
+                <p class="home-text align-right">Motion Graphics,<br>Front-End<br>Developer,<br>Branding...<br><span
+                        class="bold slim">and more</span>.</p>
+            </div>
+        </section>
+        <!-- ABOUT -->
+        <section class="about section" id="about">
+            <div class="about-container container flex">
+                <div class="about-img"><img src="assets/img/Foto-2.jpg" alt="Also me"></div>
+                <div class="about-item">
+                    <p class="about-text align-left">Hello there, my name is <b>Rui Miguel Cunha Pinto</b> and I'm a Graphic
+                        Designer based in <b>Madrid</b>, <b>Spain</b>. <br><br>
+                        I love creating and editing videos with After Effects so I'm very good at <b>Motion Graphics</b>. I
+                        also like designing websides like the one you're in right now, so I'm kind of like a <b>Front-End Developer</b>. I do <b>branding</b>, <b>editorial design</b> and <b>illustration</b>. I've got some experience at <b>3D
+                            modeling</b> with Cinema 4D and Blender, but I'm still learning. <br><br>
+                        I love music, videogames, anime and reading. I'm a very chill person and I always try to be updated for the latest trends and styles. Thanks for reading!</p>
+                    <button class="btn hover-item"><a href="assets/pdf/CV.pdf" download="CV-Rui">Download CV</a></button>
+                </div>
+            </div>
+        </section>
+        <!-- WORK -->
+        <section class="work section" id="work">
+            <ul class="categories">
+                <li id="0" class="categories-list biggest-font cat1">MOTION GRAPHICS</li>
+                <li id="1" class="categories-list biggest-font cat2">WEB DESIGN</li>
+                <li id="2" class="categories-list biggest-font cat3">BRANDING</li>
+                <li id="3" class="categories-list biggest-font cat4">EDITORIAL DESIGN</li>
+                <li id="4" class="categories-list biggest-font cat5">ILLUSTRATION</li>
+                <li id="5" class="categories-list biggest-font cat6">ANIMATION</li>
+            </ul>
+        </section>
+        <!-- CONTACT -->
+        <section class="section contact" id="contact">
+            <h1 class="contact-me">CONTACT ME</h1>
+            <div class="contact-container container flex">
+                <div class="contact-info">
+                    <div data-tilt data-tilt-reverse="true" class="contact-image">
+                        <img src="assets/img/sprite.png" alt="Me again">
+                    </div>
+                    <p>errederiku@gmail.com</p>
+                    <p>+34 663 18 65 21</p>
+                    <div class="contact-media">
+                        <span class="media-icon"><a target="_blank" href="https://www.linkedin.com/in/rui-miguel-cunha-pinto-8baabb231/"><i class="fa-brands fa-linkedin-in"></i></a></span>
+                        <span class="media-icon"><a target="_blank" href="https://www.behance.net/rikugreenhat"><i class="fa-brands fa-behance"></i></a></span>
+                        <span class="media-icon"><a target="_blank" href="https://www.youtube.com/channel/UCE98KDpjaY9OPFqoU7nV83w"><i class="fa-brands fa-youtube"></i></a></span>
+                        <span class="media-icon"><a target="_blank" href="https://www.instagram.com/r.i.k.u9/"><i class="fa-brands fa-instagram"></i></a></span>
+                    </div>
+                </div>
+                <div class="contact-form" id="contact-form">
+                    <form>
+                        <div class="contact-group">
+                            <div class="contact-box">
+                                <input type="text" name="user" class="contact-input" id="name" autocomplete="name" required placeholder="Name*">
+                                <label for="name" class="contact-label"></label>
+                            </div>
+                            <div class="contact-box">
+                                <input type="email" name="user-email" class="contact-input" id="email" autocomplete="email" required placeholder="e-mail*">
+                                <label for="email" class="contact-label"></label>
+                            </div>
+                            <div class="contact-box">
+                                <input type="text" name="subject" class="contact-input" id="subject" placeholder="Subject">
+                                <label for="subject" class="contact-label"></label>
+                            </div>
+                            <div class="contact-box contact-area">
+                                <textarea name="" id="message" rows="10" class="contact-input" required placeholder="Message"></textarea>
+                                <label for="message" class="contact-label"></label>
+                            </div>
+                        </div>
+                        <button onclick="sendMail()" class="contact-btn btn">
+                            Send
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <footer class="footer">
+            <p class="small-font">© 2023 Riku designs all right reserved</p>
+        </footer>
+        <!-- SCROLL TOP -->
+        <a class="move-commands scroll-up" href="#" id="scroll-up">
+            GO TOP <i class="fa-solid fa-arrow-up"></i>
+        </a>
+    </main>
+    <!-- TILT -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.2/vanilla-tilt.min.js"></script>
+    <script src="assets/apps/js/main.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+    </script>
+</body>
+
+</html>
