@@ -13,6 +13,12 @@ document.addEventListener('click', () =>{
         cursor.classList.remove("expand")
     }, 500);
 });
+window.onload = () => {
+    if(window.innerWidth <= 768){
+    cursor.style.display = 'none';
+    cursor2.style.display = 'none';
+}
+}
 
 // PAGE THEMES
 
