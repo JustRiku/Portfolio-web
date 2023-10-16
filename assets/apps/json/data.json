@@ -92,6 +92,15 @@
         "id": "5",
         "category": "Illustration",
         "proyects": [
+            
+            {
+                "name": "Girl",
+                "img": "assets/img/categories/illus/final-2.png"
+            },
+            {
+                "name": "Sora",
+                "img": "assets/img/categories/illus/sora3.png"
+            },
             {
                 "name": "G4U",
                 "img": "assets/img/categories/illus/good-for-u2.png"
