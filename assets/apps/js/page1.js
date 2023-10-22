@@ -49,6 +49,13 @@ if(getTheme === "bright"){
     Swtich.classList.add('active');
 }
 
+// CHANGE PAGE TITLE
+
+let newTitle = (string) => {
+    let title = string;
+    document.title = title;
+}
+
 // FETCH JSON DATA AND OPEN PROYECTS
 
 let obtainParam = (url) => {
@@ -87,6 +94,7 @@ fetch('assets/apps/json/data.json')
         grid.innerHTML += push;
         i++;
     }while(workDynamic.proyects[i] != null);
+    newTitle(workDynamic.category);
     return workDynamic;
 })
 .then(() => {

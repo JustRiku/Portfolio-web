@@ -43,7 +43,12 @@ Swtich.forEach(Element => {
     
 });
 
+// CHANGE PAGE TITLE
 
+let newTitle = (string) => {
+    let title = string;
+    document.title = title;
+}
 
 let getTheme = JSON.parse(localStorage.getItem("pageTheme"));
 // console.log(getTheme);
@@ -119,6 +124,7 @@ fetch('assets/apps/json/proyects.json')
             }while(proyectDynamic.images[i]!= null);
         }
     }while(proyectDynamic.images[i] != null);
+    newTitle(proyectDynamic.name);
     return proyectDynamic;
 });
 
